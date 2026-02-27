@@ -19,8 +19,8 @@
 <a href="http://www.credly.com/badges/6e80a0b8-c8c9-4df1-bf67-4e3f06a87d03" target="_blank" title="AWS Certified SysOps Administrator – Associate">
   <img src="https://images.credly.com/size/110x110/images/f0d3fbb9-bfa7-4017-9989-7bde8eaf42b1/image.png" alt="AWS Certified SysOps Administrator – Associate" width="100" height="100" />
 </a>
-  <img src="https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Certified Solutions Architect – Associate
-" width="100" height="100" />
+<a href="http://www.credly.com/badges0e284c3f-5164-4b21-8660-0d84737941bc" target="_blank" title="AWS Certified SysOps Administrator – Associate">
+  <img src="https://images.credly.com/size/110x110/images/f0d3fbb9-bfa7-4017-9989-7bde8eaf42b1/image.png" alt="AWS Certified Solutions Architect – Associate" width="100" height="100" />
 </a>
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
