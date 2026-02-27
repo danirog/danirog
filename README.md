@@ -3,7 +3,7 @@
 <h3 align="center">DevOps Engineer</h3>
 
 <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=danirog&label=Profile%20views&&color=blue&style=for-the-badge" alt="danirog">
+    <img src="https://komarev.com/ghpvc/?username=danirog&label=Profile%20views&&color=blue&style=flat-square" alt="danirog">
 </p>
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
@@ -18,6 +18,9 @@
 </a>
 <a href="http://www.credly.com/badges/6e80a0b8-c8c9-4df1-bf67-4e3f06a87d03" target="_blank" title="AWS Certified SysOps Administrator – Associate">
   <img src="https://images.credly.com/size/110x110/images/f0d3fbb9-bfa7-4017-9989-7bde8eaf42b1/image.png" alt="AWS Certified SysOps Administrator – Associate" width="100" height="100" />
+</a>
+  <img src="https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Certified Solutions Architect – Associate
+" width="100" height="100" />
 </a>
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
@@ -96,18 +99,3 @@
 <p>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=danirog&theme=black-ice" alt="danirog">
 </p>
-
-<!--
-**danirog/danirog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
